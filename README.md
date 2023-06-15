@@ -29,9 +29,7 @@ classes:
 
 Trained Model 116 epoch: https://drive.google.com/file/d/1FO1zZoR60iatcuoZ9CiKcjFbFnFAQPn_/view?usp=sharing
 
-|epoch|train/box_loss|train/cls_loss|train/dfl_loss|metrics/precision(B)|metrics/recall(B)|metrics/mAP50(B)|metrics/mAP50-95(B)|val/box_loss|val/cls_loss|val/dfl_loss|lr/pg0   |lr/pg1   |lr/pg2   |
-|-----|--------------|--------------|--------------|--------------------|-----------------|----------------|-------------------|------------|------------|------------|---------|---------|---------|
-|
-|                      116 (latest trained epoch)|                 1.1649|                 1.1808|                 1.3005|                0.63305|                0.50011|                0.54295|                0.34452|                 1.3287|                 1.2983|                 1.3942|               0.002575|               0.002575|               0.002575| 
-|
+|epoch                  |train/box_loss         |train/cls_loss         |train/dfl_loss         |metrics/precision(B)   |metrics/recall(B)      |metrics/mAP50(B)       |metrics/mAP50-95(B)    |val/box_loss           |val/cls_loss           |val/dfl_loss           |lr/pg0                 |lr/pg1                 |lr/pg2                 |
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+|                      116(latest trained epoch)|                 1.1649|                 1.1808|                 1.3005|                0.63305|                0.50011|                0.54295|                0.34452|                 1.3287|                 1.2983|                 1.3942|               0.002575|               0.002575|               0.002575|
 
