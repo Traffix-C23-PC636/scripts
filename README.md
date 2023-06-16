@@ -4,14 +4,22 @@ Various script to support Traffix development procceses.
 
 
 # Machine Learning 
+
+## Reproducibility
+
+1. Download COCO dataset
+2. preproceses using the respective script
+3. Model ready to be trained
+
 ## prep_dataset_1
 
 This script download COCO `train` and `val` data, and filter COCO classes dataset.
 
-
+## filter.py
+This script inteded to extract/filter any selected COCO classes. 
 ## prep_dataset_2_&_train
 
-This script adjust the COCO `train` and `val` filtered annotations dataset to adjust the default classes number to the numbere of filtered classes.
+This script adjust the COCO `train` and `val` filtered annotations dataset to adjust the default classes number to the numbered of filtered classes.
 
 
 Final Dataset: https://drive.google.com/file/d/1OW9g67a5n__nufpveFrv_5Yck1HOLy3I/view?usp=sharing
