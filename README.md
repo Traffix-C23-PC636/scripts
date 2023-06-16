@@ -21,7 +21,7 @@ This script inteded to extract/filter any selected COCO classes.
 
 This script adjust the COCO `train` and `val` filtered annotations dataset to adjust the default classes number to the numbered of filtered classes.
 
-
+# Result
 Final Dataset: https://drive.google.com/file/d/1OW9g67a5n__nufpveFrv_5Yck1HOLy3I/view?usp=sharing
 
 ```
@@ -34,6 +34,7 @@ classes:
     truck: 4
 }
 ```
+
 
 Trained Model 116 epoch: https://github.com/Traffix-C23-PC636/scripts/releases/download/v0.1.0-alpha/best.pt
 
