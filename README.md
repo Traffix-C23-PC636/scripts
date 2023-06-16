@@ -27,7 +27,7 @@ classes:
 }
 ```
 
-Trained Model 116 epoch: https://drive.google.com/file/d/1FO1zZoR60iatcuoZ9CiKcjFbFnFAQPn_/view?usp=sharing
+Trained Model 116 epoch: https://github.com/Traffix-C23-PC636/scripts/releases/download/v0.1.0-alpha/best.pt
 
 |epoch                  |train/box_loss         |train/cls_loss         |train/dfl_loss         |metrics/precision(B)   |metrics/recall(B)      |metrics/mAP50(B)       |metrics/mAP50-95(B)    |val/box_loss           |val/cls_loss           |val/dfl_loss           |lr/pg0                 |lr/pg1                 |lr/pg2                 |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
